@@ -12,7 +12,7 @@ require (
 	github.com/ihexxa/multipart v0.0.0-20210916083128-8584a3f00d1d
 	github.com/ihexxa/randstr v0.3.0
 	github.com/jessevdk/go-flags v1.4.0
-	github.com/mattn/go-sqlite3 v1.14.15
+	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/parnurzeal/gorequest v0.2.16
 	github.com/robbert229/jwt v2.0.0+incompatible
