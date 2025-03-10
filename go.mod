@@ -9,7 +9,7 @@ require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/ihexxa/fsearch v0.1.3
 	github.com/ihexxa/gocfg v0.0.1
-	github.com/ihexxa/multipart v0.0.0-20210916083128-8584a3f00d1d
+	github.com/ihexxa/multipart v0.0.1
 	github.com/ihexxa/randstr v0.3.0
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/mattn/go-sqlite3 v1.14.15
