@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/dchest/captcha v0.0.0-20200903113550-03f5f0333e1f
-	github.com/gin-contrib/static v0.0.0-20200916080430-d45d9a37d28e
+	github.com/gin-contrib/static v0.0.1
 	github.com/gin-gonic/gin v1.9.1
 	github.com/ihexxa/fsearch v0.1.3
 	github.com/ihexxa/gocfg v0.0.1
