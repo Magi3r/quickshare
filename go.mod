@@ -11,7 +11,7 @@ require (
 	github.com/ihexxa/gocfg v0.0.1
 	github.com/ihexxa/multipart v0.0.1
 	github.com/ihexxa/randstr v0.3.0
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jessevdk/go-flags v1.6.1
 	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/parnurzeal/gorequest v0.2.16
